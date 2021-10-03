@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JJTXL
+- 👋 Hi, I’m @JJTAN
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning information technology
 - 💞️ I’m looking to collaborate on ...
